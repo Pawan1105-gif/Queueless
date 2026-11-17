@@ -1,0 +1,18 @@
+Écorché anatomy model attribution
+
+The file ecorche.meshopt.glb is by Charleeh and licensed under the Creative
+Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+It is based on:
+
+- BodyParts3D, © The Database Center for Life Science, licensed under CC BY 4.0:
+  https://dbarchive.biosciencedbc.jp/en/bodyparts3d/
+- Z-Anatomy by Gauthier Kervyn, licensed under CC BY-SA 4.0:
+  https://www.z-anatomy.com/
+
+Source project: https://github.com/Charleeh/ecorche
+Source revision: 320805e06aee51e2e6f6b22533eb2a59d43f2d4d
+The model geometry is unmodified. It is rendered in QueueLess with selectable
+structure highlights and optional muscle/skeleton visibility.
+
+The full CC BY-SA 4.0 license text is in LICENSE-CC-BY-SA-4.0.txt.
+The model is an educational visualization, not a medical device.

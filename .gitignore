@@ -1,0 +1,22 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+backend/.env.local
+!backend/.env.local.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Frontend
+node_modules/
+dist/
+
+# Local tooling
+.vscode/
+*.log
